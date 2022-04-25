@@ -1,0 +1,5 @@
+console.log ('ABHISHEKCHAUDHARI')
+const string = 'ABHISHEKCHAUDHARI';
+console.log('Replace with');
+const newstring = string.replace(/ABHISHEKCHAUDHARI/, 'ABHI');
+console.log(newstring);
